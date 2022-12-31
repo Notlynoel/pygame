@@ -1,5 +1,5 @@
-## {c:blue}Um jogo simples desenvolvido em python{/c}
+## Um jogo simples desenvolvido em python
 > 30 de Dezembro de 2022
 
-{c:green}Os créditos vão para o curso da IGTI!{/c}
+!!! Os créditos vão para o curso da IGTI
 
